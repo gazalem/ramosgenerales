@@ -447,7 +447,7 @@
       "SOAT (seguro obligatorio básico de accidente de tránsito)",
       "Póliza de robo",
       "Todas las opciones mencionadas tienen deducible",
-      "Multipóliza commercial (preguntarle a Alexis si es esta)"
+      "Multipóliza commercial"
     ],
     "correct": 0
   },
@@ -662,7 +662,7 @@
       "Nulidad absoluta del contrato",
       "Periodo de Gracia"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "question": "El límite geográfico para la carga terrestre es dentro de la ciudad de Panamá.",
@@ -680,7 +680,7 @@
       "Medios de transporte",
       "Todas las opciones mencionadas."
     ],
-    "correct": 0
+    "correct": 3
   },
   {
     "question": "El SOAT cubre daños a la propiedad ajena y lesiones causadas a terceras personas por accidentes que ocurran cuando el asegurado se encuentre con aliento alcohólico o en estado de embriaguez.",
